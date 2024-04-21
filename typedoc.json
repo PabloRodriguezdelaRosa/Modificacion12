@@ -1,0 +1,7 @@
+{
+  "entryPoints": [
+    "./src/**/*.ts",
+    "./src/server.ts"
+  ],
+  "out": "./docs"
+}
