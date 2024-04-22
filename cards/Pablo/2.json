@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "name": "DUENDE",
+  "mana_cost": 2,
+  "color": 0,
+  "type_line": 1,
+  "rarity": 2,
+  "rules": "DUENDE ROBA ORO",
+  "market_price": 2
+}

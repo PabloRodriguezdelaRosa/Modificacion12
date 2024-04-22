@@ -1,0 +1,10 @@
+{
+  "id": 3,
+  "name": "MARTILLO",
+  "mana_cost": 1,
+  "color": 3,
+  "type_line": 2,
+  "rarity": 3,
+  "rules": "MARTILLAZO POTENTE",
+  "market_price": 5
+}

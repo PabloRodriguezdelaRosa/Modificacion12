@@ -1,0 +1,10 @@
+{
+  "id": 4,
+  "name": "ESPEJO 2",
+  "mana_cost": 5,
+  "color": 5,
+  "type_line": 5,
+  "rarity": 1,
+  "rules": "MIRROR",
+  "market_price": 50
+}

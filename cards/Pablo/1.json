@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "Bola de Fuego",
+  "mana_cost": 1,
+  "color": 3,
+  "type_line": 4,
+  "rarity": 4,
+  "rules": "HECHIZO DE DAÑO",
+  "market_price": 6666
+}
